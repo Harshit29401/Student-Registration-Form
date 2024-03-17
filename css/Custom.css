@@ -1,0 +1,50 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container1 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333333;
+    margin-bottom: 30px;
+}
+
+
+.table thead th {
+    background-color: #e9ecef;
+    /* Change the background color of table headers */
+}
+
+.update-link,
+.delete-link {
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+.update-link {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+
+.update-link:hover {
+    background-color: #117a8b;
+    border-color: #117a8b;
+}
+
+.delete-link {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.delete-link:hover {
+    background-color: #bd2130;
+    border-color: #bd2130;
+}
